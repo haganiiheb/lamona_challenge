@@ -124,6 +124,7 @@ class _CitiesDialogState extends State<CitiesDialog> {
   Future newCity() async {
     bool? _ = await buildCustomAlertDialog(context, child: const CityDialog());
     if (_ == true) {
+      await loadCities();
       setState(() {});
     }
   }

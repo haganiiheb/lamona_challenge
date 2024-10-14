@@ -4,6 +4,10 @@
 
 Cette application de prévisions météorologiques utilise plusieurs packages pour fournir des fonctionnalités avancées, comme l'intégration de données météo, l'utilisation d'une base de données locale pour la gestion des villes et la récupération des coordonnées GPS pour fournir des prévisions précises en fonction de la localisation de l'utilisateur.
 
+## UI
+L'interface utilisateur a été inspirée par ce design Behance : [WeatherScope - Weather Forecast Mobile App](https://www.behance.net/gallery/188387009/WeatherScope-Weather-Forecast-Mobile-App?tracking_source=search_projects|weather+application+mobile+app&l=7).
+
+
 ## Packages Utilisés
 
 Voici les principaux packages utilisés dans cette application, avec une brève description de leur utilité :
